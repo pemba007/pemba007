@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Pemba 👋
 
-<!--
-**pemba007/pemba007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer in New York City, originally from Nepal 🇳🇵.
 
-Here are some ideas to get you started:
+I build backend and data-heavy systems. These days that mostly means:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ **Python performance**: profiling and caching, and making slow computations fast
+- 🧩 **Distributed systems and APIs**: service design, migrations, data pipelines
+- 🤖 **LLM-powered applications**: structured outputs, evaluation, making AI features reliable in production
+
+> 💼 Most of my day-to-day work happens in private repositories on a separate work account, so the activity graph here doesn't show much of it. This account is for side projects, experiments, and older coursework.
+
+**Tech I use a lot:** Python · FastAPI · SQL · Docker · TypeScript · React
+
+**Find me:** [Portfolio](https://pemba007.netlify.app/) · [X / Twitter](https://x.com/PembaSherpa7)
